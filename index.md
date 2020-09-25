@@ -1,5 +1,3 @@
-# S³ Seminar
-
 The goal is to welcome recognized researchers, PhD students and post-docs on the
 field of signal processing, data science and its applications. It is open to
 everyone and is usually hosted every Friday morning 10:30 am, « Salle des
