@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+theme: daviddarnes/alembic
+# theme: jekyll-theme-cayman
 title: S³ seminar
 description: The Paris-Saclay Signal Seminar
