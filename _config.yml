@@ -1,4 +1,26 @@
 remote_theme: daviddarnes/alembic
 # theme: jekyll-theme-cayman
-title: S³ seminar
-description: The Paris-Saclay Signal Seminar
+title: "S³ seminar"
+description: "The Paris-Saclay Signal Seminar"
+
+twitter:
+  username: s3_seminar
+author: S3 seminar # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: S3 seminar # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/s3_seminar
+    - https://www.l2s.centralesupelec.fr/seminaires/s3
+    - https://s3-seminar.github.io
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/Paris # Timezone for blog posts and alike
+
+logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+url: "https://s3-seminar.github.io" # Site url, also used in jekyll-seo-tag
+
+email: seminaire.scube@l2s.centralesupelec.fr
