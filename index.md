@@ -4,8 +4,6 @@ feature_text: |
   ## S³ Seminar
   The Paris-Saclay Signal Seminar
 ---
-#feature_image: "https://picsum.photos/1300/400?image=989"
-#excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball #rolling immediately. Install it, configure it, tweak it, push it."
 
 The goal is to welcome recognized researchers, PhD students and post-docs on the
 field of signal processing, data science and its applications. It is open to
