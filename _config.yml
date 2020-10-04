@@ -20,7 +20,25 @@ permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/Paris # Timezone for blog posts and alike
 
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/signal.jpg" # Site logo, also used in jekyll-seo-tag
 url: "https://s3-seminar.github.io" # Site url, also used in jekyll-seo-tag
 
 email: seminaire.scube@l2s.centralesupelec.fr
+
+navigation_header:
+- title: Home
+  url: /
+- title: Seminars
+  url: /seminars/
+- title: Search
+  url: /search/
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/s3_seminar
+  SpeakerDeck: https://speakerdeck.com/s3_seminar
+  link: https://s3-seminar.github.io
+  # RSS: /feed.xml
+
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  Email: true
