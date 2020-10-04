@@ -2,7 +2,7 @@
 title: About S³
 feature_text: |
   ## S³
-  The Paris-_S_aclay _S_ignal _S_eminar
+  The Paris-Saclay Signal Seminar
 ---
 
 The goal of S³ is to welcome recognized researchers, PhD students and post-docs
@@ -14,17 +14,17 @@ Coffee and croissants before each seminar.
 
 # Information
 
-- You can follow S³ on  [Twitter](https://twitter.com/s3_seminar)
-- Slides, when available, are hosted at [Speaker Deck](https://speakerdeck.com/s3_seminar)
-<!-- - S³ is endorsed by L2S -->
+- You can follow S³ on  [Twitter](https://twitter.com/s3_seminar).
+- Slides, when available, are hosted at [Speaker Deck](https://speakerdeck.com/s3_seminar).
+- S³ is mostly supported by the [L2S](https://www.l2s.centralesupelec.fr/) for the moment.
 
 # Contact
 
 Do not hesitate to contact us if you wish to give a talk.
 
-[seminaire.scube AT l2s.centralesupelec.fr](mailto:seminaire.scube AΤ l2s.centralesupelec.fr)
+[seminaire.scube AT l2s.centralesupelec.fr](mailto:seminaire.scube@l2s.centralesupelec.fr)
 
-# Chairs:
+# Chairs
 
-- François Orieux, [orieux AT l2s.centralesupelec.fr](mailto:orieux AT l2s.centralesupelec.fr)
-- Hani Hamdan, [hani.hamdan AT l2s.centralesupelec.fr](mailto:hani.hamdan AT l2s.centralesupelec.fr)
+- François Orieux, [orieux AT l2s.centralesupelec.fr](mailto:orieux@l2s.centralesupelec.fr)
+- Hani Hamdan, [hani.hamdan AT l2s.centralesupelec.fr](mailto:hani.hamdan@l2s.centralesupelec.fr)
