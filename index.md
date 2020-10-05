@@ -3,7 +3,7 @@ title: About S³
 feature_text: |
   ## S³
   The Paris-Saclay Signal Seminar
-feature_image: "/assets/ligo.jpg"
+feature_image: "/assets/siam_pulsa.jpg"
 ---
 
 The goal of S³ is to welcome recognized researchers, PhD students and post-docs
