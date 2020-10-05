@@ -22,13 +22,13 @@ timezone: Europe/Paris # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
-  posts:
-    title: Posts # Needed for Siteleaf
+  sems:
+    title: Seminars # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "S³ Seminars" # The post list page content
     feature_text: |
-      Welcome to the blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+      The S³ seminars
+    # feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
 defaults:
@@ -40,9 +40,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "sems"
     values:
-      layout: post # Set the default layout for posts
+      layout: post # Set the default layout for sems
   -
     scope:
       path: ""
