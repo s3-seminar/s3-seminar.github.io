@@ -13,8 +13,8 @@ C4.01 (C stairs, 4th floor), CentraleSupélec, Breguet Building.
 
 _NB: Due to the health situation, the seminar went online only. We use the
 [Hestia](https://hestia.universite-paris-saclay.fr/) service from University
-Paris-Saclay, which is web based and does not require an account for the
-audience._
+Paris-Saclay, which is **web based and does not require an account for the
+audience**._
 
 <!-- Coffee and croissants before each seminar. -->
 
