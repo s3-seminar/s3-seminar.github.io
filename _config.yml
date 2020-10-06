@@ -22,33 +22,13 @@ timezone: Europe/Paris # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
-  sems:
+  posts:
     title: Seminars # Needed for Siteleaf
     output: true
     description: "S³ Seminars" # The post list page content
     feature_text: |
       The S³ seminars
     # feature_image: "https://picsum.photos/2560/600?image=866"
-
-# 6. Jekyll collections settings
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      image: "/assets/default-social-image.png" # Default image for sharing
-  -
-    scope:
-      path: ""
-      type: "sems"
-    values:
-      layout: post # Set the default layout for sems
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page # Set the default layout for pages
 
 logo: "/assets/logo.png" # Site logo, also used in jekyll-seo-tag
 url: "https://s3-seminar.github.io" # Site url, also used in jekyll-seo-tag
