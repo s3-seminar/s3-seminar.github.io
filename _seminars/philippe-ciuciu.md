@@ -54,9 +54,9 @@ Optics and Photonics.
 imaging compressed sensing reconstruction based on OSCAR regularization.
 https://hal.inria.fr/hal-02292372/document
 
-<!-- <div style="text-align:center"> -->
-<!-- <script async class="speakerdeck-embed" data-id="e489784219f740de9be99e1430d0b59f" data-ratio="1.77966101694915" src="//speakerdeck.com/assets/embed.js"></script> -->
-<!-- </div> -->
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="e489784219f740de9be99e1430d0b59f" data-ratio="1.77966101694915" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 <!-- <div style="text-align:center"> -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/qc_b4yiKawA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
