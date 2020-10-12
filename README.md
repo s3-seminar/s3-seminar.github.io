@@ -1,4 +1,4 @@
-# S³ — The Paris-Saclay Signal Seminar
+# [S³ — The Paris-Saclay Signal Seminar](https://s3-seminar.github.io)
 
 The goal of S³ is to welcome recognized researchers, PhD students and post-docs
 on the field of signal processing, data science and its applications. It is open
@@ -10,7 +10,7 @@ _NB: Due to the health situation, the seminar went online only. We use the
 Paris-Saclay, which is **web based and does not require an account for the
 audience**._
 
-[Mailing list](https://listes.centralesupelec.fr/wws/info/s3.seminar) -- [Twitter](https://twitter.com/s3_seminar) -- [SpeakerDeck](https://speakerdeck.com/s3_seminar) -- [YouTube](https://www.youtube.com/channel/UC_S0ZvlJxOZ0ISNovvWKWdg)
+[Mailing list](https://listes.centralesupelec.fr/wws/info/s3.seminar) — [Twitter](https://twitter.com/s3_seminar) — [SpeakerDeck](https://speakerdeck.com/s3_seminar) — [YouTube](https://www.youtube.com/channel/UC_S0ZvlJxOZ0ISNovvWKWdg)
 
 # Information
 
