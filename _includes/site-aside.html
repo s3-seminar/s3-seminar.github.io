@@ -12,6 +12,14 @@
       {% include nav-social.html %}
     </section>
 
+  {% elsif page.layout == "seminar" %}
+    <section class="section  section--description">
+      <h3>External resources</h3>
+      {% include button.html text="YouTube" icon="youtube" link=page.youtube color="#ff0000" %} {% include button.html text="SpeakerDeck" link=page.speakerdeck color="#009287" %}
+      <h3>Share</h3>
+      {% include nav-share.html %}
+    </section>
+
   {% elsif page.layout == "categories" %}
     <section class="section  section--category-index">
       <h3>Index</h3>
