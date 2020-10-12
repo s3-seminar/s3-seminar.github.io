@@ -3,7 +3,7 @@ feature_image: "https://source.unsplash.com/AFB6S2kibuk"
 title: 
 ---
 
-## Where ?
+# Where ?
 
 "Salle des séminaires", room C4.01 of L2S (stairs C, 4th floor).
 
@@ -15,13 +15,13 @@ Plateau du Moulon - 3 rue Joliot-Curie<br/>
 
 ![Acces](/assets/plan_acces.gif)
 
-## When ?
+# When ?
 
 Usually Friday morning at 11h00. 
 
 Café + croissant at 10h30 (when it's face-to-face).
 
-## Contact
+# Contact
 
 - [S³ email](mailto:seminaire.scube@l2s.centralesupelec.fr)
 - [François Orieux](https://pro.orieux.fr)
