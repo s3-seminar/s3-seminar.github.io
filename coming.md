@@ -1,6 +1,7 @@
 ---
 feature_image: "https://source.unsplash.com/AFB6S2kibuk"
 ---
+
 ## When ?
 
 Usually Friday morning at 11h00. 
