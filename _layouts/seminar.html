@@ -28,7 +28,7 @@ layout: default
 
         <br/>
 
-        {{ page.date | date: '%B %d, %Y' }} —
+        {{ page.date | date: '%B %d, %Y — %H:%M' }} —
         {% if page.online != nil %}
           Location: <a href={{ page.online }}>Online</a><br/>
         {% elsif page.location != nil %}

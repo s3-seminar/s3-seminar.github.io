@@ -2,7 +2,7 @@
 speaker: Philippe Ciuciu
 title:  Structured Sparsity Regularization for online MR Image Reconstruction in Accelerated T2* Imaging
 affiliation: CEA/NeuroSpin & Inria Saclay Île-de-France Parietal
-date: 2020-10-09
+date: 2020-10-09 11:00
 online: https://eu.bbcollab.com/guest/09e013eb8ada45feb8b9d423fbd15807
 feature_image: "philippe-ciuciu.jpg"
 youtube: https://youtu.be/qc_b4yiKawA

@@ -6,6 +6,18 @@ collectionpage: seminars
 
 {% for post in site.seminars %}
 <ul>
-  <li>{{ post.speaker }} ({{ post.affiliation }}) <br/> {{ post.date | date: '%B %d, %Y' }} <br/> <a href="{{ post.url }}">{{ post.title }}</a></li>
+  <li> {% if post.url != nil %}
+          <a href="{{ post.url }}">{{ post.speaker }}</a> ({{ post.affiliation }})
+        {% else %}
+          {{ post.speaker }} ({{ post.affiliation }})
+        {% endif %} <br/>
+  
+   {{ post.date | date: '%B %d, %Y — %H:%M' }} —
+        {% if post.online != nil %}
+          Location: <a href="{{ post.online }}">Online</a>
+        {% elsif post.location != nil %}
+          Location: {{ post.location }}
+        {% endif %}<br/>
+  <a href="{{ post.url }}">{{ post.title }}</a></li>
 </ul>
 {% endfor %}
