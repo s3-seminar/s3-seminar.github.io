@@ -4,4 +4,5 @@
 tmp/
 
 
-.jekyll-cache
+.jekyll-cache/
+_site/
