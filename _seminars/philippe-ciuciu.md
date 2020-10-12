@@ -8,8 +8,6 @@ youtube: https://youtu.be/qc_b4yiKawA
 speakerdeck: https://speakerdeck.com/s3_seminar/philippe-ciuciu
 aside: true
 ---
-<!-- **Title —** Structured Sparsity Regularization for online MR Image -->
-<!-- Reconstruction in Accelerated T2* Imaging -->
 
 [Philippe Ciuciu](https://sites.google.com/site/philippeciuciu/) (CEA/NeuroSpin & Inria Saclay Île-de-France Parietal)
 
