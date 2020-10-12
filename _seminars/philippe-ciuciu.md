@@ -3,16 +3,34 @@ speaker: Philippe Ciuciu
 title:  Structured Sparsity Regularization for online MR Image Reconstruction in Accelerated T2* Imaging
 affiliation: CEA/NeuroSpin & Inria Saclay Île-de-France Parietal
 date: 2020-10-09
+online: https://eu.bbcollab.com/guest/09e013eb8ada45feb8b9d423fbd15807
 feature_image: "philippe-ciuciu.jpg"
 youtube: https://youtu.be/qc_b4yiKawA
 speakerdeck: https://speakerdeck.com/s3_seminar/philippe-ciuciu
 aside: true
+url: https://sites.google.com/site/philippeciuciu/
 ---
 
-[Philippe Ciuciu](https://sites.google.com/site/philippeciuciu/) (CEA/NeuroSpin & Inria Saclay Île-de-France Parietal)
-
 ###### Abstract
-Reducing acquisition time is a major challenge in high-resolution MRI that has been successfully addressed by Compressed Sensing (CS) theory. While the scan time has been massively accelerated, the complexity of image recovery algorithms has strongly increased, resulting in slower reconstruction processes. In this work we propose an online approach to shorten image reconstruction times in the CS setting. We leverage the segmented acquisition of anatomical MR data in multiple shots to interleave the MR acquisition and image reconstruction steps. This approach is particularly appealing for 2D high-resolution T2* -weighted anatomical imaging. During the scan, acquired shots are stacked together to form mini-batches and image reconstruction may start from incomplete data. We demonstrate the interest and time savings of this online image reconstruction framework for Cartesian and non-Cartesian sampling strategies combined with a single receiver coil. Next, we further extend this formalism to address the more challenging case of multi-receiver phased array acquisition. In this setting, calibrationless image reconstruction leverages structured sparsity regularization to remain compatible with the timing constraints of online image delivery. Our results on ex-vivo 2D T2* -weighted brain images show that high-quality MR images are recovered by the end of acquisition in both acquisition setups.
+Reducing acquisition time is a major challenge in high-resolution MRI that has
+been successfully addressed by Compressed Sensing (CS) theory. While the scan
+time has been massively accelerated, the complexity of image recovery algorithms
+has strongly increased, resulting in slower reconstruction processes. In this
+work we propose an online approach to shorten image reconstruction times in the
+CS setting. We leverage the segmented acquisition of anatomical MR data in
+multiple shots to interleave the MR acquisition and image reconstruction steps.
+This approach is particularly appealing for 2D high-resolution T2* -weighted
+anatomical imaging. During the scan, acquired shots are stacked together to form
+mini-batches and image reconstruction may start from incomplete data. We
+demonstrate the interest and time savings of this online image reconstruction
+framework for Cartesian and non-Cartesian sampling strategies combined with a
+single receiver coil. Next, we further extend this formalism to address the more
+challenging case of multi-receiver phased array acquisition. In this setting,
+calibrationless image reconstruction leverages structured sparsity
+regularization to remain compatible with the timing constraints of online image
+delivery. Our results on ex-vivo 2D T2* -weighted brain images show that
+high-quality MR images are recovered by the end of acquisition in both
+acquisition setups.
 
 ###### Biography
 Dr. Philippe Ciuciu obtained his PhD in electrical engineering
@@ -55,7 +73,3 @@ https://hal.inria.fr/hal-02292372/document
 <div style="text-align:center">
 <script async class="speakerdeck-embed" data-id="e489784219f740de9be99e1430d0b59f" data-ratio="1.77966101694915" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
-
-<!-- <div style="text-align:center"> -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/qc_b4yiKawA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-<!-- </div> -->
