@@ -16,6 +16,7 @@ aside: true
 </div>
 
 ###### Abstract
+
 Reducing acquisition time is a major challenge in high-resolution MRI that has
 been successfully addressed by Compressed Sensing (CS) theory. While the scan
 time has been massively accelerated, the complexity of image recovery algorithms
@@ -36,7 +37,24 @@ delivery. Our results on ex-vivo 2D T2\*-weighted brain images show that
 high-quality MR images are recovered by the end of acquisition in both
 acquisition setups.
 
+###### References
+
+[1] El Gueddari L, Ciuciu P, Chouzenoux E, Vignaud A, Pesquet JC.
+Calibrationless OSCAR-based image reconstruction in compressed sensing parallel
+MRI. In2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)
+Apr 8, 2019 (pp. 1532-1536). IEEE.
+
+[2] El Gueddari L, Chouzenoux E, Vignaud A, Pesquet JC, Ciuciu P. Online MR
+image reconstruction for compressed sensing acquisition in T2* imaging.
+InWavelets and Sparsity XVIII Sep 9, 2019 (Vol. 11138, p. 1113819).
+International Society for Optics and Photonics.
+
+[3] El Gueddari L, Chouzenoux E, Vignaud A, Ciuciu P. Calibration-less parallel
+imaging compressed sensing reconstruction based on OSCAR regularization.
+https://hal.inria.fr/hal-02292372/document
+
 ###### Biography
+
 Dr. Philippe Ciuciu obtained his PhD in electrical engineering
 from the University of Paris-Sud in 2000 and his Habilitation degree in 2008.
 Dr. Ciuciu is now CEA Research Director at NeuroSpin where he has led, since
@@ -58,18 +76,3 @@ Image and Signal Analytics (BISA) technical committee of the EURASIP society. In
 2020, he has been appointed as Associate Editor to Frontiers in Neuroscience,
 section Brain imaging methods.
 
-###### References
-
-[1] El Gueddari L, Ciuciu P, Chouzenoux E, Vignaud A, Pesquet JC.
-Calibrationless OSCAR-based image reconstruction in compressed sensing parallel
-MRI. In2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)
-Apr 8, 2019 (pp. 1532-1536). IEEE.
-
-[2] El Gueddari L, Chouzenoux E, Vignaud A, Pesquet JC, Ciuciu P. Online MR
-image reconstruction for compressed sensing acquisition in T2* imaging.
-InWavelets and Sparsity XVIII Sep 9, 2019 (Vol. 11138, p. 1113819).
-International Society for Optics and Photonics.
-
-[3] El Gueddari L, Chouzenoux E, Vignaud A, Ciuciu P. Calibration-less parallel
-imaging compressed sensing reconstruction based on OSCAR regularization.
-https://hal.inria.fr/hal-02292372/document
