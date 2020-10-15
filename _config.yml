@@ -128,8 +128,8 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: "S³ Seminars"
-  url: https://s3-seminar.github.io
+- title: "Webmaster: F. Orieux — Themes taken from Alembic"
+  url: https://alembic.darn.es/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/s3_seminar
