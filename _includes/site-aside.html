@@ -14,8 +14,15 @@
 
   {% elsif page.layout == "seminar" %}
     <section class="section  section--description">
-      <h3>External resources</h3>
-      {% include button.html text="YouTube" icon="youtube" link=page.youtube color="#ff0000" %} {% include button.html text="SpeakerDeck" link=page.speakerdeck color="#009287" %}
+      {% if page.youtube != nil or page.speakerdeck != nil %}
+        <h3>External resources</h3>
+        {% if page.youtube != nil %}
+        {% include button.html text="YouTube" icon="youtube" link=page.youtube color="#ff0000" %}
+        {% endif %}
+        {% if page.speakerdeck != nil %}
+        {% include button.html text="SpeakerDeck" link=page.speakerdeck color="#009287" %}
+        {% endif %}
+      {% endif %}
       <h3>Share</h3>
       {% include nav-share.html %}
     </section>

@@ -1,15 +1,19 @@
 ---
-speaker: Philippe Ciuciu
 title:  Structured Sparsity Regularization for online MR Image Reconstruction in Accelerated T2* Imaging
+speaker: Philippe Ciuciu
 affiliation: CEA/NeuroSpin & Inria Saclay Île-de-France Parietal
 date: 2020-10-09 11:00
 online: https://eu.bbcollab.com/guest/09e013eb8ada45feb8b9d423fbd15807
+perso: https://sites.google.com/site/philippeciuciu/
 feature_image: "philippe-ciuciu.jpg"
 youtube: https://youtu.be/qc_b4yiKawA
 speakerdeck: https://speakerdeck.com/s3_seminar/philippe-ciuciu
 aside: true
-url: https://sites.google.com/site/philippeciuciu/
 ---
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="e489784219f740de9be99e1430d0b59f" data-ratio="1.77966101694915" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 Reducing acquisition time is a major challenge in high-resolution MRI that has
@@ -19,7 +23,7 @@ has strongly increased, resulting in slower reconstruction processes. In this
 work we propose an online approach to shorten image reconstruction times in the
 CS setting. We leverage the segmented acquisition of anatomical MR data in
 multiple shots to interleave the MR acquisition and image reconstruction steps.
-This approach is particularly appealing for 2D high-resolution T2* -weighted
+This approach is particularly appealing for 2D high-resolution T2\*-weighted
 anatomical imaging. During the scan, acquired shots are stacked together to form
 mini-batches and image reconstruction may start from incomplete data. We
 demonstrate the interest and time savings of this online image reconstruction
@@ -28,7 +32,7 @@ single receiver coil. Next, we further extend this formalism to address the more
 challenging case of multi-receiver phased array acquisition. In this setting,
 calibrationless image reconstruction leverages structured sparsity
 regularization to remain compatible with the timing constraints of online image
-delivery. Our results on ex-vivo 2D T2* -weighted brain images show that
+delivery. Our results on ex-vivo 2D T2\*-weighted brain images show that
 high-quality MR images are recovered by the end of acquisition in both
 acquisition setups.
 
@@ -56,20 +60,16 @@ section Brain imaging methods.
 
 ###### References
 
-1) El Gueddari L, Ciuciu P, Chouzenoux E, Vignaud A, Pesquet JC. Calibrationless
-OSCAR-based image reconstruction in compressed sensing parallel MRI. In2019 IEEE
-16th International Symposium on Biomedical Imaging (ISBI 2019) Apr 8, 2019 (pp.
-1532-1536). IEEE.
+[1] El Gueddari L, Ciuciu P, Chouzenoux E, Vignaud A, Pesquet JC.
+Calibrationless OSCAR-based image reconstruction in compressed sensing parallel
+MRI. In2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)
+Apr 8, 2019 (pp. 1532-1536). IEEE.
 
-2) El Gueddari L, Chouzenoux E, Vignaud A, Pesquet JC, Ciuciu P. Online MR image
-reconstruction for compressed sensing acquisition in T2* imaging. InWavelets and
-Sparsity XVIII Sep 9, 2019 (Vol. 11138, p. 1113819). International Society for
-Optics and Photonics.
+[2] El Gueddari L, Chouzenoux E, Vignaud A, Pesquet JC, Ciuciu P. Online MR
+image reconstruction for compressed sensing acquisition in T2* imaging.
+InWavelets and Sparsity XVIII Sep 9, 2019 (Vol. 11138, p. 1113819).
+International Society for Optics and Photonics.
 
-3) El Gueddari L, Chouzenoux E, Vignaud A, Ciuciu P. Calibration-less parallel
+[3] El Gueddari L, Chouzenoux E, Vignaud A, Ciuciu P. Calibration-less parallel
 imaging compressed sensing reconstruction based on OSCAR regularization.
 https://hal.inria.fr/hal-02292372/document
-
-<div style="text-align:center">
-<script async class="speakerdeck-embed" data-id="e489784219f740de9be99e1430d0b59f" data-ratio="1.77966101694915" src="//speakerdeck.com/assets/embed.js"></script>
-</div>

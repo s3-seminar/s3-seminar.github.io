@@ -4,20 +4,21 @@ layout: blog
 collectionpage: seminars
 ---
 
-{% for post in site.seminars %}
+{% assign sorted = site.seminars | sort: 'date' | reverse %}
+
+{% for post in sorted %}
 <ul>
-  <li> {% if post.url != nil %}
-          <a href="{{ post.url }}">{{ post.speaker }}</a> ({{ post.affiliation }})
-        {% else %}
-          {{ post.speaker }} ({{ post.affiliation }})
-        {% endif %} <br/>
-  
-   {{ post.date | date: '%B %d, %Y — %H:%M' }} —
-        {% if post.online != nil %}
-          Location: <a href="{{ post.online }}">Online</a>
-        {% elsif post.location != nil %}
-          Location: {{ post.location }}
-        {% endif %}<br/>
-  <a href="{{ post.url }}">{{ post.title }}</a></li>
+  <li> <b><a href="{{ post.url }}">{{ post.title }}</a></b><br/>
+  {% if post.url != nil %}
+    <a href="{{ post.perso }}">{{ post.speaker }}</a> ({{ post.affiliation }})
+  {% else %}
+    {{ post.speaker }} ({{ post.affiliation }})
+  {% endif %} <br/>
+  {{ post.date | date: '%B %d, %Y — %H:%M' }} —
+  {% if post.online != nil %}
+    Location: <a href="{{ post.online }}">Online</a>
+  {% elsif post.location != nil %}
+    Location: {{ post.location }}
+  {% endif %}</li>
 </ul>
 {% endfor %}
