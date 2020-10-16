@@ -19,7 +19,7 @@ audience**._
 
 ### Information
 
-- You can subscribe to the _mailing list_ to receive annoucments
+- You can subscribe to the _mailing list_ to receive annoucements
   - by submitting your email in the [subscribe
     page](https://listes.centralesupelec.fr/wws/subscribe/s3.seminar) or
   - sending a mail with subject `subscribe s3.seminar` to [sympa AT listes.centralesupelec.fr](mailto:sympa@listes.centralesupelec.fr?subject=sub%20s3.seminar) 

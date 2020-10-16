@@ -1,0 +1,23 @@
+---
+layout: none
+---
+{% assign sorted = site.seminars | sort: 'date' %}
+
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://s3-seminar.github.io/
+METHOD:PUBLISH
+{% for sem in sorted limit:10 %}
+{% capture nowunix %}{{ 'now' | date: '%s' }}{% endcapture %}
+{% capture semtime %}{{ sem.date | date: '%s' }}{% endcapture %}
+{% if semtime > nowunix %}BEGIN:VEVENT
+UID:{{ sem.date | date: "%Y%m%d" }}@centralesupelec.fr
+ORGANIZER;CN="S3 seminar":MAILTO:seminaire.scube@centralesupelec.fr
+LOCATION:L2S, Breguet Building, CentraleSupelec
+SUMMARY:{{ sem.title }}
+CLASS:PUBLIC
+DTSTART:{{ sem.date | date: "%Y%m%d" }}T170000Z
+DTEND:{{ sem.date | date: "%Y%m%d" }}T190000Z
+DTSTAMP:{{ sem.date | date: "%Y%m%d" }}T170000Z
+END:VEVENT{% endfor %}
+END:VCALENDAR
