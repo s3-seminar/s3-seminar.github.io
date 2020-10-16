@@ -22,17 +22,14 @@ audience**._
 - You can subscribe to the _mailing list_ to receive annoucements
   - by submitting your email in the [subscribe
     page](https://listes.centralesupelec.fr/wws/subscribe/s3.seminar) or
-  - sending a mail with subject `subscribe s3.seminar` to [sympa AT listes.centralesupelec.fr](mailto:sympa@listes.centralesupelec.fr?subject=sub%20s3.seminar) 
-<!-- - You can follow S³ on  [Twitter](https://twitter.com/s3_seminar) (we tweet only about scientific events). -->
-<!-- - Slides, when available, are hosted at [Speaker Deck](https://speakerdeck.com/s3_seminar). -->
-<!-- - S³ is mostly supported by the [L2S](https://www.l2s.centralesupelec.fr/) for the moment. -->
+  - [sending a mail](mailto:sympa@listes.centralesupelec.fr?subject=sub%20s3.seminar) with subject `subscribe s3.seminar` to `sympa AT listes.centralesupelec.fr`.
 - Do not hesitate to [contact us](mailto:seminaire.scube@l2s.centralesupelec.fr) if you wish to give a talk or for any other reason.
 
 ### Organizers
 
 [François Orieux](https://pro.orieux.fr) and [Hani Hamdan](https://www.l2s.centralesupelec.fr/u/hamdan-hani/).
 
-<img src="./assets/cropped-L2S.png" alt="L2S logo" style="height:60px;">
+<a href="https://www.l2s.centralesupelec.fr"><img src="./assets/cropped-L2S.png" alt="L2S logo" style="height:60px;"><a/>
 <img src="./assets/PSlogo.jpg" alt="Paris-Saclay logo" style="height:60px;">
 <img src="./assets/cnrslogo.jpg" alt="CNRS logo" style="height:60px;">
 <img src="./assets/CSlogo.jpg" alt="CentraleSupélec logo" style="height:60px;">
