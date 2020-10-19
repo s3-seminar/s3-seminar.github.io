@@ -1,7 +1,7 @@
 ---
 title: Efficient MCMC sampling via asymptotically exact data augmentation
 speaker: Maxime Vono
-affiliation: NA 
+affiliation: IRIT — INP-ENSEEIHT
 perso: https://mvono.github.io
 date: 2020-12-11 14:00
 feature_image: "maxime-vono.jpg"
