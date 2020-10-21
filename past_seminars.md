@@ -1,5 +1,5 @@
 ---
-title: "The S³ seminars"
+title: "All past S³ seminars"
 layout: blog
 collectionpage: seminars
 ---
