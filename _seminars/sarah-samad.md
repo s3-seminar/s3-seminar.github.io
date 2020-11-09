@@ -5,8 +5,13 @@ affiliation: IETR-INSA Rennes
 date: 2020-11-06 11:00
 online: https://eu.bbcollab.com/guest/8cbb0720f3cf483aae829b592fd01c83
 feature_image: sarah-samad.jpg
+speakerdeck: https://speakerdeck.com/s3_seminar/sarah-samad
 aside: true
 ---
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="b5385281a54140deb3af8f8a5b502f49" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 
