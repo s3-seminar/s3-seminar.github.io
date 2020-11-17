@@ -1,7 +1,7 @@
 ---
 title: Riemannian geometry for data analysis: illustration on blind source separation and low-rank structured covariance matrices
 speaker: Florent Bouchard
-affiliation: L2S — CNRS, Université Paris-Saclay, CentraleSupélec
+affiliation: L2S - CNRS, Université Paris-Saclay, CentraleSupélec
 date: 2020-11-27 11:00
 online: https://eu.bbcollab.com/guest/aa8fb73da3d147c4b522d836780d07eb
 aside: true
