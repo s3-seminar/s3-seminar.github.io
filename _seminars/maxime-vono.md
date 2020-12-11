@@ -7,8 +7,14 @@ date: 2020-12-11 14:00
 feature_image: "maxime-vono.jpg"
 image: "seminars/maxime-vono/maxime-vono.jpg"
 online: "https://eu.bbcollab.com/guest/453cb1d5e71b4aa194bbf6405eb730f1"
+youtube: https://youtu.be/glfde4edAYo
+speakerdeck: https://speakerdeck.com/s3_seminar/maxime-vono
 aside: true
 ---
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="55083216fc034da7ae14c7cd91b9317a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 Performing exact Bayesian inference for complex models is computationally intractable. Markov chain Monte Carlo (MCMC) algorithms can provide reliable approximations of the posterior distribution but are expensive for large datasets and high-dimensional models. A standard approach to mitigate this complexity consists in using subsampling techniques or distributing the data across a cluster. However, these approaches are typically unreliable in high-dimensional scenarios. We focus here on an alternative MCMC scheme, coined Split Gibbs Sampler (SGS), exploiting a splitting strategy akin to the one used by quadratic penalty approaches in optimisation. This MCMC algorithm targets an approximation of a given posterior distribution which comes from an approximate statistical framework called Asymptotically Exact Data Augmentation (AXDA). Under standard regularity conditions, we quantitatively assess the bias associated to AXDA, establish explicit convergence rates for SGS and provide practitioners with explicit guidelines to fix the number of SGS steps. We finally support our methodology with numerical illustrations on challenging Bayesian inference problems.
