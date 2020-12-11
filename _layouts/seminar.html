@@ -21,9 +21,9 @@ layout: default
         <br/>
 
         {% if page.perso != nil and page.perso != "None" %}
-          <a href={{ page.perso }}>{{ page.speaker }}</a> ({{ page.affiliation }})
+          <a href={{ page.perso }}><strong>{{ page.speaker }}</strong></a> ({{ page.affiliation }})
         {% else %}
-          {{ page.speaker }} ({{ page.affiliation }})
+          <strong>{{ page.speaker }}</strong> ({{ page.affiliation }})
         {% endif %}
 
         <br/>
