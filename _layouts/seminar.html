@@ -20,7 +20,7 @@ layout: default
 
         <br/>
 
-        {% if page.perso != nil %}
+        {% if page.perso != nil and page.perso != "None" %}
           <a href={{ page.perso }}>{{ page.speaker }}</a> ({{ page.affiliation }})
         {% else %}
           {{ page.speaker }} ({{ page.affiliation }})
