@@ -6,7 +6,7 @@ date: 2021-03-05 11:00
 online: https://eu.bbcollab.com/guest/d57873767abd4b9f90fddd0e44c40fd8
 perso: https://www.lpsm.paris/pageperso/boyer/
 feature_image: "claire-boyer.jpg"
-image: "claire-boyer.jpg"
+image: "seminars/claire-boyer/claire-boyer.jpg"
 aside: true
 ---
 
