@@ -5,6 +5,7 @@ affiliation: IETR-INSA Rennes
 date: 2020-11-06 11:00
 online: https://eu.bbcollab.com/guest/8cbb0720f3cf483aae829b592fd01c83
 feature_image: sarah-samad.jpg
+image: seminars/sarah-samad/sarah-samad.jpg
 speakerdeck: https://speakerdeck.com/s3_seminar/sarah-samad
 aside: true
 ---

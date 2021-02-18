@@ -6,6 +6,7 @@ date: 2020-10-02 11:00
 online: https://eu.bbcollab.com/guest/09e013eb8ada45feb8b9d423fbd15807
 perso: https://scholar.google.it/citations?user=QnZgxQwAAAAJ&hl=it
 feature_image: stefano-fortunati.jpg
+image: "seminars/stefano-fortunati/stefano-fortunati.jpg"
 speakerdeck: https://speakerdeck.com/s3_seminar/stefano-fortunati
 aside: true
 ---

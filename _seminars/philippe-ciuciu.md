@@ -6,7 +6,7 @@ date: 2020-10-09 11:00
 online: https://eu.bbcollab.com/guest/09e013eb8ada45feb8b9d423fbd15807
 perso: https://sites.google.com/site/philippeciuciu/
 feature_image: "philippe-ciuciu.jpg"
-image: "philippe-ciuciu.jpg"
+image: "seminars/philippe-ciuciu/philippe-ciuciu.jpg"
 youtube: https://youtu.be/qc_b4yiKawA
 speakerdeck: https://speakerdeck.com/s3_seminar/philippe-ciuciu
 aside: true
