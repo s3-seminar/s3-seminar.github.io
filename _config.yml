@@ -66,7 +66,6 @@ collections:
     #   The list of S³ seminars
     feature_image: "https://source.unsplash.com/1-aA2Fadydc"
     # feature_image: "https://picsum.photos/2560/600?image=733"
-    # image: "https://picsum.photos/2560/600?image=733"
 
 # 6. Jekyll collections settings
 defaults:
@@ -74,7 +73,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/assets/logos/logo.png" # Default image for sharing
   -
     scope:
       path: ""
