@@ -4,6 +4,9 @@ speaker: "Ouafae Karmouda"
 affiliation: "SIGMA team at CRIStAL laboratory, Lille"
 date: 2021-03-12 11:00
 online: https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120e42476f36%40thread.tacv2/1614181583266?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%22f214f106-92ec-433a-b9a8-20a164143534%22%7d
+perso: 
+feature_image: "ouafae-karmouda.jpg"
+image: "seminars/ouafae-karmouda/ouafae-karmouda.jpg"
 aside: true
 ---
 
