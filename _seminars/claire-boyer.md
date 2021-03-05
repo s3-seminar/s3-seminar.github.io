@@ -7,7 +7,7 @@ online: https://eu.bbcollab.com/guest/d57873767abd4b9f90fddd0e44c40fd8
 perso: https://www.lpsm.paris/pageperso/boyer/
 feature_image: "claire-boyer.jpg"
 image: "seminars/claire-boyer/claire-boyer.jpg"
-youtube: https://youtu.be/CjV4OAAdGow
+youtube: https://youtu.be/Y_VRDIU3zug
 speakerdeck: https://speakerdeck.com/s3_seminar/claire-boyer-1d516aed-9976-4c55-861d-15842b0e7eff
 aside: true
 ---
