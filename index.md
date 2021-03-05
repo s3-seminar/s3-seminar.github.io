@@ -28,7 +28,7 @@ audience**._
 
 ### Past organizers
 
-Gilles Chardon (January 2016 – June 2019).
+Gilles Chardon (January 2016 – June 2019).\\
 Frédéric Pascal (January 2015 – January 2017).
 Alexandre Renaux (January 2015 – January 2016).
 
