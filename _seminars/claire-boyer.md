@@ -7,8 +7,14 @@ online: https://eu.bbcollab.com/guest/d57873767abd4b9f90fddd0e44c40fd8
 perso: https://www.lpsm.paris/pageperso/boyer/
 feature_image: "claire-boyer.jpg"
 image: "seminars/claire-boyer/claire-boyer.jpg"
+youtube: https://youtu.be/CjV4OAAdGow
+speakerdeck: https://speakerdeck.com/s3_seminar/claire-boyer-1d516aed-9976-4c55-861d-15842b0e7eff
 aside: true
 ---
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="2687604e2b7a4b5d9df586f879736fc9" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 
