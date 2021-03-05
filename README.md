@@ -5,7 +5,7 @@ on the field of signal processing, data science and its applications. It is open
 to everyone and is usually hosted Friday morning 11:00 am, "Salle des séminaire"
 C4.01 (C stairs, 4th floor), CentraleSupélec, Breguet Building.
 
-_NB: Due to the health situation, the seminar went online only. We use the
+_NB: Due to the Covid-19 pandemic situation, the seminar went online only. We use the
 [Hestia](https://hestia.universite-paris-saclay.fr/) service from University
 Paris-Saclay, which is **web based and does not require an account for the
 audience**._
