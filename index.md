@@ -5,12 +5,9 @@ feature_image: "/assets/sciam_pulse.jpg"
 aside: false
 ---
 
-The goal of S³ is to welcome recognized researchers, PhD students and post-docs
-on the field of signal processing, data science and its applications. It is open
-to everyone and is usually hosted Friday morning 11:00 am, "Salle des séminaire"
-C4.01 (C stairs, 4th floor), CentraleSupélec, Breguet Building.
+The goal of the S³ Seminar is to welcome recognized researchers, but also post-docs and PhD students, around the field of signal processing, data science, and its applications. It is open to everyone and is usually hosted every Friday morning at 11:00 am, « Salle des séminaires du L2S » Room C4.01, Breguet Building, CentraleSupélec.
 
-_NB: Due to the health situation, the seminar went online only. We use the
+_NB: Due to the Covid-19 pandemic, the seminar went online only. We use the
 [Hestia](https://hestia.universite-paris-saclay.fr/) service from University
 Paris-Saclay, which is **web based and does not require an account for the
 audience**._
