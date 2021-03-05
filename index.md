@@ -29,7 +29,9 @@ audience**._
 ### Past organizers
 
 Gilles Chardon (January 2016 – June 2019).
+
 Frédéric Pascal (January 2015 – January 2017).
+
 Alexandre Renaux (January 2015 – January 2016).
 
 <a href="https://www.l2s.centralesupelec.fr"><img src="./assets/cropped-L2S.png" alt="L2S logo" style="height:60px;"><a/>
