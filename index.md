@@ -26,7 +26,7 @@ audience**._
 
 [François Orieux](https://pro.orieux.fr) and [Hani Hamdan](https://www.l2s.centralesupelec.fr/u/hamdan-hani/).
 
-### Past organizers
+### Previous organizers
 
 - Gilles Chardon (January 2016 – June 2019).
 - Frédéric Pascal (January 2015 – January 2017).
