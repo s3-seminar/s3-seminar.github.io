@@ -8,7 +8,13 @@ perso:
 feature_image: "ouafae-karmouda.jpg"
 image: "seminars/ouafae-karmouda/ouafae-karmouda.jpg"
 aside: true
+youtube: https://www.youtube.com/watch?v=XXWSmTa9BhY
+speakerdeck: https://speakerdeck.com/s3_seminar/ouafae-karmouda
 ---
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="80fa4123463941eb8484dccad765fb7f" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 
