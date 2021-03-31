@@ -36,8 +36,8 @@ audience**._
 
 ##### Previous organizers
 
-- [H. Hamdan](https://www.l2s.centralesupelec.fr/u/hamdan-hani/) (Jan. 2017 — Mar. 2021)
-- G. Chardon (Jan. 2016 – June 2019)
-- F. Pascal (Jan. 2015 – Jan. 2017)
-- A. Renaux (Jan. 2015 – Jan. 2016)
+[H. Hamdan](https://www.l2s.centralesupelec.fr/u/hamdan-hani/), [G.
+Chardon](https://gilleschardon.fr/), [F.
+Pascal](https://fredericpascal.blogspot.com/p/home.html), [A.
+Renaux](https://l2s.centralesupelec.fr/u/renaux-alexandre/).
 

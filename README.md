@@ -23,5 +23,4 @@ audience**._
 
 # Organizers
 
-- [François Orieux](https://pro.orieux.fr)
-- [Hani Hamdan](https://www.l2s.centralesupelec.fr/u/hamdan-hani/)
+[François Orieux](https://pro.orieux.fr) and [Florent Bouchard](https://sites.google.com/view/florentbouchard/).
