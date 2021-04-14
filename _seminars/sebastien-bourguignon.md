@@ -7,8 +7,13 @@ online: "https://eu.bbcollab.com/guest/18aee800e2e04720b0db85013390c166"
 perso: "http://pagesperso.ls2n.fr/~bourguignon-s/"
 feature_image: "sebastien-bourguignon.jpg"
 image: "seminars/sebastien-bourguignon/sebastien-bourguignon.jpp"
+speakerdeck: https://speakerdeck.com/s3_seminar/sebastien-bourguignon
 aside: true
 ---
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="1ecbaa2a8a8047b086bbca1333693e8a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 
