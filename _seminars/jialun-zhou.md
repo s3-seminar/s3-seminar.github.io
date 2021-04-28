@@ -10,10 +10,6 @@ youtube:
 aside: true
 ---
 
-<div style="text-align:center">
-<script async class="speakerdeck-embed" data-id="8304133c4d2e4e60a1f9d8c65e0a5a09" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-</div>
-
 ###### Abstract
 
 Elliptically-Contoured Distributions (ECD) and its Mixture model (MECD) are highly
