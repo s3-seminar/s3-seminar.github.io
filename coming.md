@@ -33,4 +33,4 @@ Café + croissant at 10h30 (when it's face-to-face).
 
 - [S³ email](mailto:seminaire.scube@l2s.centralesupelec.fr)
 - [François Orieux](https://pro.orieux.fr)
-- [Hani Hamdan](https://www.l2s.centralesupelec.fr/u/hamdan-hani/)
+- [Florent Bouchard](https://sites.google.com/view/florentbouchard/)
