@@ -2,7 +2,7 @@
 title: "Online estimation of elliptical distributions and their mixture: The component-wise information gradient method"
 speaker: Jialun Zhou
 affiliation: IMS, Groupe Signal Image — CNRS, Université de Bordeaux
-date: 2021-05-14 11:00
+date: 2021-05-21 11:00
 perso: https://sites.google.com/view/zhoujialun/homepage
 online: 
 speakerdeck: 
