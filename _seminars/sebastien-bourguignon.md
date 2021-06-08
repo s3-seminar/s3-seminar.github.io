@@ -4,9 +4,9 @@ speaker: "Sébastien Bourguignon"
 affiliation: "École Centrale de Nantes, LS2N, SIMS team"
 date: 2021-04-09 11:00
 online: "https://eu.bbcollab.com/guest/18aee800e2e04720b0db85013390c166"
-perso: "http://pagesperso.ls2n.fr/~bourguignon-s/"
-feature_image: "sebastien-bourguignon.jpg"
 image: "seminars/sebastien-bourguignon/sebastien-bourguignon.jpp"
+feature_image: "sebastien-bourguignon.jpg"
+perso: "http://pagesperso.ls2n.fr/~bourguignon-s/"
 speakerdeck: https://speakerdeck.com/s3_seminar/sebastien-bourguignon
 aside: true
 ---
