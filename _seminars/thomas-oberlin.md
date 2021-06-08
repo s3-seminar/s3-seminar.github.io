@@ -34,7 +34,7 @@ analysis point of view. To appear in ICIP 2021, https://arxiv.org/abs/2101.08661
 ###### Biography
 
 Thomas Oberlin holds a Ph.D. in applied mathematics from the University of
-Grenoble. In 2014, he was a post-doctoral fellow in signal processing and
+Grenoble. In 2014, he was a postdoctoral fellow in signal processing and
 medical imaging at Inria Rennes, before joining as an Assistant Professor INP
 Toulouse - ENSEEIHT and the IRIT Laboratory, at Université de Toulouse. Since
 2019, he is an Assistant/Associate Professor of Image Processing and Machine
