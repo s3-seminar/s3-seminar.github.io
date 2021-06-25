@@ -7,8 +7,14 @@ image: "seminars/thomas-oberlin/thomas-oberlin.jpg"
 feature_image: "thomas-oberlin.jpg"
 perso: https://personnel.isae-supaero.fr/thomas-oberlin/
 online: https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120e42476f36%40thread.tacv2/1623242140099?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%22e7e16d6d-f879-4a2c-9797-8c1ec43541f4%22%7d
+youtube: https://youtu.be/hYFI3zyark4
+speakerdeck: https://speakerdeck.com/s3_seminar/thomas-oberlin
 aside: true
 ---
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="a4fac20caf2c4377912e7f48d296168b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 
