@@ -9,6 +9,8 @@ speakerdeck: https://speakerdeck.com/s3_seminar/alexandre-hippert-ferrer
 aside: true
 ---
 
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="4bbfe9f1444e407f97cb6ef5fe783f1e" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></div>
 
 ###### Abstract
 
