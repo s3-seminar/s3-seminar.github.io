@@ -8,6 +8,10 @@ speakerdeck: https://speakerdeck.com/s3_seminar/jialun-zhou
 aside: true
 ---
 
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="a4fac20caf2c4377912e7f48d296168b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
 ###### Abstract
 
 Elliptically-Contoured Distributions (ECD) and its Mixture model (MECD) are
