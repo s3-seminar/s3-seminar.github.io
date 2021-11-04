@@ -4,7 +4,7 @@ speaker: Jialun Zhou
 affiliation: IMS, Groupe Signal Image — CNRS, Université de Bordeaux
 date: 2021-05-21 11:00
 perso: https://sites.google.com/view/zhoujialun/homepage
-speakerdeck: 
+speakerdeck: https://speakerdeck.com/s3_seminar/jialun-zhou
 aside: true
 ---
 
