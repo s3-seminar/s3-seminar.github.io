@@ -42,7 +42,7 @@ hyperspectral data accounting for spectral variability.
 Prévost, C., Borsoi, R., Usevich, K., Brie, D., Bermudez, J. C., & Richard, C.
 (2021). Hyperspectral super-resolution accounting for spectral variability:
 LL1-based recovery and blind unmixing.
-https://hal.archives-ouvertes.fr/hal-03158076
+[https://hal.archives-ouvertes.fr/hal-03158076](https://hal.archives-ouvertes.fr/hal-03158076)
 
 
 ###### Biography
