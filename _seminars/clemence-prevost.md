@@ -1,12 +1,13 @@
 ---
-title: "Multimodal data fusion by tensor low-rank approximations: applications in remote sensing"
+title: "Multimodal data fusion by tensor low-rank approximations - applications in remote sensing"
 speaker: "Clémence Prévost"
 affiliation: "CRIStAL - Univ. Lille, CNRS, Centrale Lille"
 date: 2022-02-11 11:00
+perso: "https://cprevost4.github.io"
 online:  "https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120e42476f36%40thread.tacv2/1641214133727?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%22e7e16d6d-f879-4a2c-9797-8c1ec43541f4%22%7d"
-perso: https://cprevost4.github.io
 feature_image: "clemence-prevost.jpg"
 image: "seminars/clemence-prevost/clemence-prevost.jpg"
+youtube: https://youtu.be/I_sRPP9jzB0
 aside: true
 ---
 
