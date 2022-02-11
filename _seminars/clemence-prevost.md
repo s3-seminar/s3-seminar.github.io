@@ -8,8 +8,13 @@ online:  "https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120
 feature_image: "clemence-prevost.jpg"
 image: "seminars/clemence-prevost/clemence-prevost.jpg"
 youtube: https://youtu.be/I_sRPP9jzB0
+speakerdeck: https://speakerdeck.com/s3_seminar/clemence-prevost
 aside: true
 ---
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="e25e576fe496456a810a9dde17e072f7" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 
