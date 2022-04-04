@@ -1,9 +1,9 @@
 ---
 title: "The statistics of Discrete Determinantal Point Processes"
 speaker: Victor-Emmanuel Brunel
-affiliation: ENSAE/CREST
-date: 2022-04-08 11:00
-localtion: "Salle des séminaires du L2S"
+affiliation: "ENSAE-CREST"
+date: "2022-04-08 11:00"
+location: "Salle des séminaires du L2S"
 perso: https://vebrunel.com/about/
 aside: true
 ---
