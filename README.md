@@ -5,11 +5,6 @@ on the field of signal processing, data science and its applications. It is open
 to everyone and is usually hosted Friday morning 11:00 am, "Salle des séminaire"
 C4.01 (C stairs, 4th floor), CentraleSupélec, Breguet Building.
 
-_NB: Due to the Covid-19 pandemic situation, the seminar went online only. We use the
-[Hestia](https://hestia.universite-paris-saclay.fr/) service from University
-Paris-Saclay, which is **web based and does not require an account for the
-audience**._
-
 [Mailing list](https://listes.centralesupelec.fr/wws/info/s3.seminar) — [Twitter](https://twitter.com/s3_seminar) — [SpeakerDeck](https://speakerdeck.com/s3_seminar) — [YouTube](https://www.youtube.com/channel/UC_S0ZvlJxOZ0ISNovvWKWdg)
 
 # Information
