@@ -12,18 +12,20 @@ aside: true
 
 ###### Abstract
 
-Over 4000 exoplanets have been detected so far, and have deeply transformed our
+Over 4000 exoplanets have been detected so far. They have deeply transformed our
 understanding of planetary system formation, and expanded our possibilities to
-search for life outside of Earth. The smaller the exoplanets and the more
-distant to their host stars, the harder they are to detect. Earth « twins »
-orbiting solar-type stars are still out of reach because of very complex
-astrophysical and instrumental noises. To solve it, we need new methods to
-analyse unevenly sampled, multi-variate time series. In this talk I will mostly
-focus on statistical significance. Exoplanet detections are claimed based on the
-value of a statistical significance metric: if it is greater than a certain
-threshold, a detection is claimed. In this talk, I will address the question of
-the optimal significance metric, and advocate for a Bayesian hypothesis testing
-framework where hypotheses are indexed by continuous variables.
+search for life outside of Earth. The smaller and the more distant to their host
+stars exoplanets are, the harder they are to detect. Earth « twins » orbiting
+solar-type stars are still out of reach because of very complex astrophysical
+and instrumental noises. To overcome this difficulty, we need new methods to
+analyse unevenly sampled, multi-variate time series: better models,
+computational methods and decision rules to claim detections. In this talk I
+will mostly focus on the latter aspect. Exoplanet detections are claimed based
+on the value of a statistical significance metric: if it is greater than a
+certain threshold, a detection is claimed. I will address the question of the
+optimal significance metric in the general setting of detection of parametric
+signals, and advocate for a Bayesian hypothesis testing framework where
+hypotheses are indexed by continuous variables.
 
 ###### References
 
