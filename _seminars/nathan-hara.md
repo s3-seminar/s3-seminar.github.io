@@ -15,10 +15,10 @@ aside: true
 Over 4000 exoplanets have been detected so far. They have deeply transformed our
 understanding of planetary system formation, and expanded our possibilities to
 search for life outside of Earth. The smaller and the more distant to their host
-stars exoplanets are, the harder they are to detect. Earth « twins » orbiting
-solar-type stars are still out of reach because of very complex astrophysical
-and instrumental noises. To overcome this difficulty, we need new methods to
-analyse unevenly sampled, multi-variate time series: better models,
+stars exoplanets are, the harder they are to detect. Earth «&nbsp;twins&nbsp;»
+orbiting solar-type stars are still out of reach because of very complex
+astrophysical and instrumental noises. To overcome this difficulty, we need new
+methods to analyse unevenly sampled, multi-variate time series: better models,
 computational methods and decision rules to claim detections. In this talk I
 will mostly focus on the latter aspect. Exoplanet detections are claimed based
 on the value of a statistical significance metric: if it is greater than a
