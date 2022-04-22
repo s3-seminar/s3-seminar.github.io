@@ -7,6 +7,7 @@ online: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFiYzZiZjctNjU1
 perso: https://scholar.google.ch/citations?user=-W7DwlUAAAAJ&hl=fr
 feature_image: "nathan-hara.jpg"
 image: "seminars/nathan-hara/nathan-hara.jpg"
+youtube: "https://youtu.be/Buy-z67dM3E"
 aside: true
 ---
 
