@@ -8,8 +8,13 @@ perso: https://scholar.google.ch/citations?user=-W7DwlUAAAAJ&hl=fr
 feature_image: "nathan-hara.jpg"
 image: "seminars/nathan-hara/nathan-hara.jpg"
 youtube: "https://youtu.be/Buy-z67dM3E"
+speakerdeck: "https://speakerdeck.com/s3_seminar/nathan-hara"
 aside: true
 ---
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="2983a3f4076b411da1ac4b0fc9db1eaa" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 
