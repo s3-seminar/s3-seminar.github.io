@@ -4,6 +4,7 @@ speaker: Ami Wiesel
 affiliation: Hebrew University of Jerusalem
 date: 2022-10-17 14:00
 perso: https://www.cs.huji.ac.il/~amiw/
+location: "Salle des séminaires du L2S and online"
 online: https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120e42476f36%40thread.tacv2/1664922639441?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%224d6c63a8-7eae-4099-804e-68bcb968bec0%22%7d
 youtube: 
 speakerdeck: 
