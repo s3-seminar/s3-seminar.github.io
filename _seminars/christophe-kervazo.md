@@ -3,14 +3,12 @@ title: Automatic methods for sparse blind source separation
 speaker: Christophe Kervazo
 affiliation: LTCI, Télécom Paris, Institut Polytechnique de Paris
 date: 2023-01-27 14:00
-online: Salle des séminaire du L2S
+location: Salle des séminaire du L2S ([MS Teams](https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120e42476f36%40thread.tacv2/1673988919895?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%22e7e16d6d-f879-4a2c-9797-8c1ec43541f4%22%7d))
 perso: https://sites.google.com/d/1CyF1tYGtoPeksAruQFlfhkOEGG_qNDAa/p/1PshTsbceZFm90mF6yWvfdgeaO9zY5gfD/edit
 feature_image: "christophe-kervazo.png"
 image: "seminars/christophe-kervazo/christophe-kervazo.png"
 aside: true
 ---
-
-[Online](https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120e42476f36%40thread.tacv2/1673988919895?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%22e7e16d6d-f879-4a2c-9797-8c1ec43541f4%22%7d)
 
 ###### Abstract
 
