@@ -30,11 +30,11 @@ layout: default
 
         {{ page.date | date: '%B %d, %Y — %H:%M' }} —
         {% if page.online != nil %}
-          Location: <a href={{ page.online }}>Online</a><br/>
+          <a href={{ page.online }}>Online</a><br/>
         {% elsif page.location != nil and page.hybrid != nil %}
-          Location: {{ page.location }} — <a href={{ page.hybrid }}>[MS Teams]</a><br/>
+          "{{ page.location }" and <a href={{ page.hybrid }}>[MS Teams]</a><br/>
         {% elsif page.location != nil %}
-          Location: {{ page.location }}<br/>
+          "{{ page.location }}"<br/>
         {% endif %}
 
         <br/>
