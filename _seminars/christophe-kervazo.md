@@ -8,8 +8,14 @@ hybrid: https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120e4
 perso: https://sites.google.com/d/1CyF1tYGtoPeksAruQFlfhkOEGG_qNDAa/p/1PshTsbceZFm90mF6yWvfdgeaO9zY5gfD/edit
 feature_image: "christophe-kervazo.png"
 image: "seminars/christophe-kervazo/christophe-kervazo.png"
+youtube: https://youtu.be/QiuV3pJ4YvY
+speakerdeck: https://speakerdeck.com/s3_seminar/christophe-kervazo
 aside: true
 ---
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="77015c22d5364f84b23166b937d96cd8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 
