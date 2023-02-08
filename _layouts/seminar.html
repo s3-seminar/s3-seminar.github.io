@@ -32,7 +32,7 @@ layout: default
         {% if page.online != nil %}
           <a href={{ page.online }}>Online</a><br/>
         {% elsif page.location != nil and page.hybrid != nil %}
-          "{{ page.location }}" and <a href={{ page.hybrid }}>MS Teams</a><br/>
+          "{{ page.location }}" <small>(and <a href={{ page.hybrid }}>Teams</a>)</small><br/>
         {% elsif page.location != nil %}
           "{{ page.location }}"<br/>
         {% endif %}
