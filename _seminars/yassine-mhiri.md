@@ -8,8 +8,14 @@ hybrid: https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2I4OGY5YjktYzRkN
 perso: y-mhiri.github.io
 feature_image: "yassine-mhiri.png"
 image: "seminars/yassine-mhiri/yassine-mhiri.png"
+youtube: https://www.youtube.com/watch?v=hWnTtFHIvLs
+speakerdeck: https://speakerdeck.com/s3_seminar/yassine-mhiri
 aside: true
 ---
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="347a2d135a0c4b7c86a9945981c6c90e" data-ratio="1.32963988919668" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 
