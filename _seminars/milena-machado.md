@@ -1,7 +1,7 @@
 ---
-title: Time series, principal component analysis and logistic regression: An application to the association between annoyance and air pollution
+title: "Time series, principal component analysis and logistic regression: An application to the association between annoyance and air pollution"
 speaker: Milena Machado
-affiliation: IFES: Federal Institute of Science and Technology of Espírito Santo, Brazil - IFES
+affiliation: Federal Institute of Science and Technology of Espírito Santo, Brazil - IFES
 date: 2023-03-16 10:00
 location: Salle des séminaires du L2S
 hybrid: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWM4ZjU0ODEtOTkzOC00ZTNlLWE1YzgtNTllOGUyNDk4NGFh%40thread.v2/0?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%22e7e16d6d-f879-4a2c-9797-8c1ec43541f4%22%7d
