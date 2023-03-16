@@ -8,8 +8,14 @@ hybrid: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWM4ZjU0ODEtOTkzO
 perso: https://lattes.cnpq.br/7056788837736672
 feature_image: "yassine-mhiri.png"
 image: "seminars/milena-machado/milena-machado.png"
+youtube: https://youtu.be/RBn6uq5MzQo
+speakerdeck: https://speakerdeck.com/s3_seminar/milena-machado
 aside: true
 ---
+
+<div style="text-align:center">
+<script defer class="speakerdeck-embed" data-id="d8e8add657ce4bee9e032d2b98d12a3f" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 
