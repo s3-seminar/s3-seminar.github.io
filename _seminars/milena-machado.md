@@ -6,8 +6,8 @@ date: 2023-03-16 10:00
 location: Salle des séminaires du L2S
 hybrid: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWM4ZjU0ODEtOTkzOC00ZTNlLWE1YzgtNTllOGUyNDk4NGFh%40thread.v2/0?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%22e7e16d6d-f879-4a2c-9797-8c1ec43541f4%22%7d
 perso: https://lattes.cnpq.br/7056788837736672
-feature_image: "yassine-mhiri.png"
-image: "seminars/milena-machado/milena-machado.png"
+feature_image: "milena-machado.jpeg"
+image: "seminars/milena-machado/milena-machado.jpeg"
 youtube: https://youtu.be/RBn6uq5MzQo
 speakerdeck: https://speakerdeck.com/s3_seminar/milena-machado
 aside: true
