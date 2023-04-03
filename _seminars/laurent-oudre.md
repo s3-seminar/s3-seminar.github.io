@@ -1,7 +1,7 @@
 ---
 title: "Graph signal processing for the study of multivariate physiological signals"
 speaker: Laurent Oudre
-affiliation: Centre Borelli (ENS Paris Saclay)
+affiliation: Centre Borelli, ENS Paris Saclay
 date: 2023-05-26 11:00
 perso: www.laurentoudre.fr
 location: "Salle des séminaires du L2S and online"
