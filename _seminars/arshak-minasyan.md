@@ -6,9 +6,13 @@ date: 2023-03-08 14:00
 perso: https://pointguard0.github.io/
 location: "Salle des séminaires du L2S and online"
 youtube: 
-speakerdeck: 
+speakerdeck: https://speakerdeck.com/s3_seminar/arshak-minasyan
 aside: true
 ---
+
+<div style="text-align:center">
+<script defer class="speakerdeck-embed" data-id="46a5ab2903c847c9bdd8eec9ec18f234" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 
