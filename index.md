@@ -25,10 +25,11 @@ The goal of the S³ Seminar is to welcome recognized researchers, but also post-
 
 ### Organizers
 
-[François Orieux](https://pro.orieux.fr) and [Florent Bouchard](https://sites.google.com/view/florentbouchard/).
+[Florent Bouchard](https://sites.google.com/view/florentbouchard/) and [Mohammed Nabil El-Korso](https://sites.google.com/site/nabkorso/)
 
 ##### Previous organizers
 
+[François Orieux](https://pro.orieux.fr) (2019 — 2023), 
 [H. Hamdan](https://www.l2s.centralesupelec.fr/u/hamdan-hani/) (2017 — 2020),
 [G. Chardon](https://gilleschardon.fr/) (2016 — 2019), [F. Pascal](https ://
 fredericpascal .blogspot.com/p/ home.html) (2015 — 2017), [A.
