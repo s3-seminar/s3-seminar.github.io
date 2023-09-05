@@ -6,9 +6,14 @@ date: 2023-05-26 11:45
 perso: http://www.laurentoudre.fr/
 location: "Amphitéâtre Peugeot - Bâtiment Bouygues"
 youtube: 
-speakerdeck: 
+speakerdeck: https://speakerdeck.com/s3_seminar/laurent-oudre
 aside: true
 ---
+
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="7118f8feb72c4cb3ae1e7e0a74c66390" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></div>
+
 
 ###### Abstract
 
