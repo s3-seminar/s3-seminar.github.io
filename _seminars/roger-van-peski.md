@@ -18,7 +18,7 @@ and interesting analogues of these results for products of integer and p-adic ra
 Roger defended his PhD at MIT in 2023, advised by Alexei Borodin, and is now a postdoc at KTH.
 He is interested in various topics in probability, mathematical physics and related areas.
 
-###### Reference
+###### References
 
 https://arxiv.org/abs/2112.02147
 
