@@ -26,6 +26,9 @@ We will also discuss other ways of approaching this problem by reformulating it 
 ###### References
 
 [1] B. Theulot et al. “Genome-wide mapping of individual replication fork velocities using nanopore sequencing”. In: Nature Communications 13 (2022). doi: 10.1038/s41467-022-31012-0.
+
 [2] L. Blanc-Féraud B. Laville and G. Aubert. “Off-The-Grid Variational Sparse Spike Recovery: Methods and Algorithms”. In: Journal of Imaging 7.12 (2021). issn: 2313-433X. doi: 10 . 3390 / jimaging7120266. url: https://www.mdpi.com/2313-433X/7/12/266.
+
 [3] Clara Lage et al. Time-Scale Hybrid Continuous-Discrete Sliding Frank-Wolfe Method. eprint: https://hal.science/hal-04146737/.
+
 [4] G. Peyré Q. Denoyelle V. Duval and E. Soubies. “The sliding Frank–Wolfe algorithm and its application to super-resolution microscopy”. In: Inverse Problems 36.1 (2019), p. 014001. doi: 10.1088/1361-6420/ab2a29.
