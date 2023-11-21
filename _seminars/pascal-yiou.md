@@ -4,7 +4,7 @@ speaker: Pascal Yiou
 affiliation: CEA, Saclay
 date: 2023-12-01 11:00
 perso: https://www.lsce.ipsl.fr/Phocea/Pisp/index.php?nom=pascal.yiou
-location: new L2S location (IBM building), room to be announced
+location: new L2S location (IBM building), 5th floor room
 hybrid: https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120e42476f36%40thread.tacv2/1696602526924?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%224d6c63a8-7eae-4099-804e-68bcb968bec0%22%7d
 youtube: 
 speakerdeck: 
