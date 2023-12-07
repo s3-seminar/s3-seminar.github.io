@@ -7,9 +7,13 @@ perso: https://ayoubbelhadji.github.io/
 location: new L2S location (IBM building), 3rd floor room
 hybrid: https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120e42476f36%40thread.tacv2/1700562592720?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%224d6c63a8-7eae-4099-804e-68bcb968bec0%22%7d
 youtube: 
-speakerdeck: 
+speakerdeck: https://speakerdeck.com/s3_seminar/ayoub-belhadji
 aside: true
 ---
+
+
+<div style="text-align:center">
+<script defer class="speakerdeck-embed" data-id="4435631fd0234707bdc6dad2680bb80c" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script></div>
 
 ###### Abstract
 We study the approximation of a square integrable function from a finite number of its evaluations at well-chosen nodes.
