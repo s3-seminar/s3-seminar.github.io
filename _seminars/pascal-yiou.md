@@ -7,9 +7,13 @@ perso: https://www.lsce.ipsl.fr/Phocea/Pisp/index.php?nom=pascal.yiou
 location: new L2S location (IBM building), 5th floor room
 hybrid: https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120e42476f36%40thread.tacv2/1696602526924?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%224d6c63a8-7eae-4099-804e-68bcb968bec0%22%7d
 youtube: 
-speakerdeck: 
+speakerdeck: https://speakerdeck.com/s3_seminar/pascal-yiou
 aside: true
 ---
+
+
+<div style="text-align:center">
+<script defer class="speakerdeck-embed" data-id="e0a20908d0384d28904fda993cd1c095" data-ratio="1.7777777777777777" src="//speakerdeck.com/assets/embed.js"></script></div>
 
 ###### Abstract
 Extreme Event Attribution (EEA) is the corpus of statistical tools to determine how climate change affects the probability of occurrence of extremes.
