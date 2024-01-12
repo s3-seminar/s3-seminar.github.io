@@ -31,3 +31,10 @@ Before that, he was a Research Associate with the Department of Electrical and C
 from 2020 to 2022 and the Department of Electrical and Computer Engineering, Carnegie Mellon University, Pennsylvania, from 2018 to 2020.
 His research focuses on the mathematical foundations of data science and signal processing, and applied harmonic analysis.
 In 2018, he was shortlisted among the finalists for the Jack Keil Wolf Student Paper Award at the IEEE International Symposium on Information Theory. 
+
+###### References
+[1] M. Ferreira Da Costa, “The condition number of weighted non-harmonic Fourier matrices with applications to super-resolution”, hal-04261330, 2023, preprint.  
+
+[2] M. Ferreira Da Costa, Y. Chi, "Local Geometry of Spike Deconvolution from Low-Pass Measurements," IEEE Journal on Selected Areas in Information Theory, vol. 4, pp. 1-15, 2023. 
+
+[3] M. Ferreira Da Costa, "Second-Order Beurling Approximations and Super-Resolution from Bandlimited Functions," Sampling Theory and Applications Conference (SampTA 2023), July 2023.
