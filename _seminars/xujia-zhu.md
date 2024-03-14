@@ -7,9 +7,12 @@ perso:
 location: new L2S location (IBM building), 3rd floor room
 hybrid: https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120e42476f36%40thread.tacv2/1709043537906?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%224d6c63a8-7eae-4099-804e-68bcb968bec0%22%7d
 youtube: 
-speakerdeck: 
+speakerdeck: https://speakerdeck.com/s3_seminar/xujia-zhu
 aside: true
 ---
+
+<div style="text-align:center">
+<script defer class="speakerdeck-embed" data-id="5e659c970df54796b869751aec8b8e51" data-ratio="1.7796610169491525" src="//speakerdeck.com/assets/embed.js"></script></div>
 
 ###### Abstract
 In the context of uncertainty quantification or optimization, it is indispensable to evaluate computational models repeatedly.
