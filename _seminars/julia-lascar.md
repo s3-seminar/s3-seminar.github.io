@@ -12,8 +12,25 @@ aside: true
 ---
 
 ###### Abstract
-To be added.
+In astrophysics, X-ray telescopes can collect cubes of data 
+called hyperspectral images. These data cubes have two spatial 
+dimensions, and one spectral dimension. The subject of my thesis is to 
+implement algorithms to analyze X-ray hyperspectral images of supernovae 
+remnants. In particular, I have implemented a non-stationary unmixing 
+algorithm (unmixing where each endmember varies spectrally), and a 
+fusion algorithm to obtain the best resolutions from two generation of 
+telescopes. The aim of my thesis is to combine the two, and thus obtain 
+an algorithm that unmixes and fuses hyperspectral data simultaneously.
+
+Article: https://arxiv.org/abs/2404.03490
 
 
 ###### Bio
-To be added.
+Julia Lascar is a 2nd year PhD student working at the CEA with 
+Jérôme Bobin and Fabio Acero. Her research focuses on implementing 
+signal processing algorithms applied to hyperspectral X-ray 
+astrophysics, with a particular interest in supernova remnants. She has 
+a Master's degree in astrophysics from McGill University, Montreal, and 
+a M2 in statistics from ENSAI, Rennes. Before that, she studied Physics 
+and Philosophy at King's College London.
+
