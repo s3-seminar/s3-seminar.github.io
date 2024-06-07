@@ -7,9 +7,12 @@ perso:
 location: new L2S location (IBM building), 3rd floor room
 hybrid: https://teams.microsoft.com/l/meetup-join/19%3a178a6f926336444088eb120e42476f36%40thread.tacv2/1705069714551?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%224d6c63a8-7eae-4099-804e-68bcb968bec0%22%7d
 youtube: 
-speakerdeck: 
+speakerdeck: https://speakerdeck.com/s3_seminar/julia-lascar
 aside: true
 ---
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="8c7e377d4d9a4fbf887d41c116f72c76" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></div>
 
 ###### Abstract
 In astrophysics, X-ray telescopes can collect cubes of data 
