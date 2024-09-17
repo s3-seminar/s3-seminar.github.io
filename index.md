@@ -12,7 +12,7 @@ aside: false
 <img src="./assets/dataia_logo.png" alt="DATAIA logo" style="height:60px;">
 <img src="./assets/icode_logo.png" alt="ICODE logo" style="height:60px;">
 
-The goal of the S³ Seminar is to welcome recognized researchers, but also post-docs and PhD students, around the field of signal processing, data science, and its applications. It is open to everyone and is usually hosted every Friday morning at 11:00 am, « Salle des séminaires du L2S » Room C4.01, Breguet Building, CentraleSupélec.
+The goal of the S³ Seminar is to welcome recognized researchers, but also post-docs and PhD students, around the field of signal processing, data science, and its applications. It is open to everyone and is usually hosted every Friday morning at 11:00 am, on the 3rd floor room of the new L2S location (IBM building).
 
 {% include button.html text="Mailing list" link="https://listes.centralesupelec.fr/wws/info/s3.seminar" color="#333333" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/s3_seminar" color="#0d94e7" %} {% include button.html text="SpeakerDeck" link="https://speakerdeck.com/s3_seminar" color="#009287" %} {% include button.html text="YouTube" icon="youtube" link="https://www.youtube.com/@s3seminar" color="#ff0000" %}
 
@@ -25,7 +25,7 @@ The goal of the S³ Seminar is to welcome recognized researchers, but also post-
 
 ### Organizers
 
-[Florent Bouchard](https://sites.google.com/view/florentbouchard/) and [Mohammed Nabil El-Korso](https://sites.google.com/site/nabkorso/)
+[Florent Bouchard](https://flbouchard.github.io/) and [Mohammed Nabil El-Korso](https://sites.google.com/site/nabkorso/)
 
 ##### Previous organizers
 
