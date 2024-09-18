@@ -4,9 +4,6 @@ layout: blog
 feature_image: "https://source.unsplash.com/w2JtIQQXoRU"
 ---
 
-The S³ seminar is taking a summer break.
-It will return in September at the start of the new academic year.
-
 {% assign sorted = site.seminars | sort: 'date' %}
 
 {% for sem in sorted %}
