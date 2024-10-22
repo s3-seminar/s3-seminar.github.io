@@ -6,7 +6,7 @@ date: 2024-10-18 11:00
 perso: https://samuelhurault.netlify.app/
 location: new L2S location (IBM building), 3rd floor room
 hybrid: https://teams.microsoft.com/l/message/19:178a6f926336444088eb120e42476f36@thread.tacv2/1726688296402?tenantId=61f3e3b8-9b52-433a-a4eb-c67334ce54d5&groupId=10a5c9c7-b271-4ee5-b8eb-3a741d9d89a0&parentMessageId=1726688296402&teamName=S%C2%B3%20Seminar&channelName=General&createdTime=1726688296402
-youtube: 
+youtube: https://youtu.be/w0lPSKdWWwI
 speakerdeck: 
 aside: true
 ---
