@@ -1,6 +1,6 @@
 ---
 title: " "
-feature_image: "assets/come-feat.jpg"
+feature_image: "/assets/come-feat.jpg"
 ---
 
 # Where ?
