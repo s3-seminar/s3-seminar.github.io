@@ -1,8 +1,10 @@
 ---
 title: "The next S³ seminars"
 layout: blog
-feature_image: "https://source.unsplash.com/w2JtIQQXoRU"
+feature_image: "/assets/next-feat.jpg"
 ---
+
+<!-- feature_image: "https://source.unsplash.com/w2JtIQQXoRU" -->
 
 {% assign sorted = site.seminars | sort: 'date' %}
 
