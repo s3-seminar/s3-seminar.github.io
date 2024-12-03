@@ -11,6 +11,10 @@ speakerdeck:
 aside: true
 ---
 
+
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="3513a39c85bb4dc2b9e4afcd54b30f1b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></div>
+
 ###### Abstract
 Learning causal structures from observational data is a fundamental problem.
 In the context of linear structural equation models (SEMs), I will present our works in addressing the computational challenges in the causal structure learning problem.
