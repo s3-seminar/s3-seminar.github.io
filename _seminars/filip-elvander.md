@@ -11,6 +11,11 @@ speakerdeck:
 aside: true
 ---
 
+<div style="text-align:center">
+<script defer class="speakerdeck-embed" data-id="b68abc1351f0430099fbee06f6693168" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+
 ###### Abstract
 In this talk, I will present recent developments on our work on optimal transport for linear inverse problems.
 Optimal transport (OT) offers a powerful framework for measuring distances between distributions of mass,
@@ -28,4 +33,4 @@ He has been a Postdoctoral Research Fellow with the Stadius Center for Dynamical
 KU Leuven, Leuven, Belgium, and with the Research Foundation – Flanders (FWO).
 He is currently an Assistant Professor of signal processing with the Department of Information and Communications Engineering, Aalto University, Finland.
 He is a Member of the EURASIP Technical Area Committee on Signal and Data Analytics for Machine Learning.
-His research interests include inverse problems, robust estimation, and convex modeling and approximation techniques in statistical signal processing and spectral analysis
+His research interests include inverse problems, robust estimation, and convex modeling and approximation techniques in statistical signal processing and spectral analysis.
