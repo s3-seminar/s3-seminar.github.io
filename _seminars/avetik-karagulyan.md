@@ -4,7 +4,7 @@ speaker: Avetik Karagulyan
 affiliation: Université Paris-Saclay, CNRS, CentraleSupélec, L2S
 date: 2025-02-07 11:00
 perso: https://avetx.github.io/
-location: new L2S location (IBM building), Room Bur 2.1 (Second floor)
+location: new L2S location (IBM building), Room Hopper (Third floor)
 hybrid: https://teams.microsoft.com/l/meetup-join/19:178a6f926336444088eb120e42476f36@thread.tacv2/1734454512275?context=%7B%22Tid%22:%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22,%22Oid%22:%224d6c63a8-7eae-4099-804e-68bcb968bec0%22%7D
 aside: true
 ---
