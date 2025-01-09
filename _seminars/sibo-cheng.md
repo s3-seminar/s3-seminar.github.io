@@ -2,7 +2,7 @@
 title: "Making the Most of Sparse Data: Machine Learning and Data Assimilation with applications in Air Quality and Geoscience"
 speaker: Sibo Cheng
 affiliation: CEREA, École Nationale des Ponts et Chaussées (ENPC), Institut Polytechnique de Paris
-date: 2025-01-24 10:00
+date: 2025-02-21 10:00
 perso: https://scholar.google.com/citations?user=Jj1UrwQAAAAJ&hl=en
 location: new L2S location (IBM building), 3rd floor, Salle G. Hopper
 hybrid: https://teams.microsoft.com/l/meetup-join/19:178a6f926336444088eb120e42476f36@thread.tacv2/1734016019052?context=%7B%22Tid%22:%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22,%22Oid%22:%224d6c63a8-7eae-4099-804e-68bcb968bec0%22%7D
