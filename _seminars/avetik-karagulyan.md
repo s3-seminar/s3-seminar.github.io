@@ -9,6 +9,9 @@ hybrid: https://teams.microsoft.com/l/meetup-join/19:178a6f926336444088eb120e424
 aside: true
 ---
 
+<div style="text-align:center">
+<script defer class="speakerdeck-embed" data-id="0ce79874d17d4a39a5ce8b4a62eba93b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 Federated sampling algorithms have recently gained great popularity in the community of machine learning and statistics.
