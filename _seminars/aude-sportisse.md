@@ -8,6 +8,8 @@ location: new L2S location (IBM building), Room Hopper (Third floor)
 aside: true
 ---
 
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="5692ede1faea482cac0f78a04c2cdd52" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></div>
 
 
 ###### Abstract
