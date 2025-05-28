@@ -11,6 +11,10 @@ speakerdeck:
 aside: true
 ---
 
+<div style="text-align:center">
+<script async class="speakerdeck-embed" data-id="9517ba5b18954595a29c186a5e6df5b7" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></div>
+
+
 ###### Abstract
 Plug-and-play methods constitute a class of iterative algorithms for
 imaging inverse problems where regularization is performed by an
