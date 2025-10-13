@@ -3,7 +3,7 @@ title: "Statistical and Computational Complexity of the Feature Matching Map Det
 speaker: Tigran Galstyan
 affiliation: Univ. Paris Saclay, CNRS, CentraleSupélec, L2S
 date: 2025-10-17 11:00
-perso: 
+perso: https://tigrangalstyan.github.io/ 
 location: new L2S location (IBM building), Room Hopper (Third floor)
 hybrid: https://teams.microsoft.com/meet/388216564192?p=vAzXhmCUkFxCqZ1cUQ
 aside: true
