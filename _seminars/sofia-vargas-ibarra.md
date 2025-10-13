@@ -5,7 +5,7 @@ affiliation: Univ. Paris Saclay, CNRS, CentraleSupélec, L2S
 date: 2025-10-17 11:00
 perso: 
 location: new L2S location (IBM building), Room Hopper (Third floor)
-hybrid: 
+hybrid: https://teams.microsoft.com/meet/388216564192?p=vAzXhmCUkFxCqZ1cUQ
 aside: true
 ---
 
