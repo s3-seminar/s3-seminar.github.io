@@ -9,6 +9,11 @@ hybrid: https://teams.microsoft.com/meet/388216564192?p=vAzXhmCUkFxCqZ1cUQ
 aside: true
 ---
 
+<div style="text-align:center">
+<script defer class="speakerdeck-embed" data-id="c6bc1405b96e493abe4779f59f6260ae" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+
 
 
 ###### Abstract
