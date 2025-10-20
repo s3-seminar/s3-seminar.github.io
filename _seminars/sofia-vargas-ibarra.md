@@ -10,6 +10,10 @@ aside: true
 ---
 
 
+<div style="text-align:center">
+<script defer class="speakerdeck-embed" data-id="22e33795804c45459fa999854cb3ca1d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
 
 ###### Abstract
 L’AVC est responsable d’environ 6 millions de décès chaque année.
