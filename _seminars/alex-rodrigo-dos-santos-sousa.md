@@ -2,7 +2,7 @@
 title: "On Bayesian wavelet shrinkage estimation of nonparametric regression models with stationary errors"
 speaker: Alex Rodrigo dos Santos Sousa
 affiliation: University of Campinas (UNICAMP), Brazil
-date: 2025-11-21 11:00
+date: 2025-11-21 14:00
 perso: 
 location: Salle G. Hopper 0336, IBM
 hybrid: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmQ2ZDg3YTYtODQwOS00MGZhLWJmNjYtYTk1OGQyNDYwNGQx%40thread.v2/0?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%2201cc0888-b138-4589-8399-689984129826%22%7d
