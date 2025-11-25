@@ -1,8 +1,8 @@
 ---
 title: "The late-stage training dynamics of (stochastic) subgradient descent on homogeneous neural networks"
 speaker: Sholom Schechtman
-affiliation: Samovar, Telecom Sud Paris
-date: 2024-12-12 14:00
+affiliation: Télécom SudParis
+date: 2025-12-12 14:00
 perso: 
 location: new L2S location (IBM building), 3rd floor, Salle G. Hopper
 hybrid: https://teams.microsoft.com/meet/38868898750167?p=VyI9kngl4zrq6lvHzR
