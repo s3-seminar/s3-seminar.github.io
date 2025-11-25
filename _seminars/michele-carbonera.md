@@ -2,7 +2,7 @@
 title: "Modeling the City: Generative AI for Multivariate Traffic Scenario Generation"
 speaker: Michele Carbonera
 affiliation: University of Milano-Bicocca
-date: 2024-12-05 11:00
+date: 2025-12-05 11:00
 perso: 
 location: new L2S location (IBM building), 3rd floor, Salle G. Hopper
 hybrid: https://teams.microsoft.com/meet/3722450464943?p=l5WfJe8jtmrf7RDSUa
