@@ -25,10 +25,10 @@ The goal of the S³ Seminar is to welcome recognized researchers, but also post-
 
 ### Organizers
 
-[Florent Bouchard](https://flbouchard.github.io/) and [Mohammed Nabil El-Korso](https://sites.google.com/site/nabkorso/)
+[Arshak Minasyan](https://pointguard0.github.io/) and [Florent Bouchard](https://flbouchard.github.io/)
 
 ##### Previous organizers
-
+[Mohammed Nabil El-Korso](https://sites.google.com/site/nabkorso/) (2023 — 2025),
 [François Orieux](https://pro.orieux.fr) (2019 — 2023), 
 [H. Hamdan](https://www.l2s.centralesupelec.fr/u/hamdan-hani/) (2017 — 2020),
 [G. Chardon](https://gilleschardon.fr/) (2016 — 2019), [F. Pascal](https ://
