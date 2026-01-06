@@ -11,6 +11,9 @@ speakerdeck:
 aside: true
 ---
 
+<div style="text-align:center">
+<script defer class="speakerdeck-embed" data-id="b8f1d471eb7740ec927aa100c4066fda" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ###### Abstract
 We analyze the implicit bias of constant step stochastic subgradient descent (SGD).
