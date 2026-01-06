@@ -5,7 +5,7 @@ affiliation: RIKEN
 date: 2026-01-06 11:00
 perso: https://ithems.riken.jp/en/members/lucas-sort
 location: Salle G. Hopper 0336, IBM
-hybrid: 
+hybrid: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzYxNGM3MzItYTEwMC00ZjAzLTk1NTItM2UzODdiNWYzMDBj%40thread.v2/0?context=%7b%22Tid%22%3a%2261f3e3b8-9b52-433a-a4eb-c67334ce54d5%22%2c%22Oid%22%3a%2272d94c66-3c88-4943-855d-9fa510f9d8aa%22%7d
 speakerdeck: 
 aside: true
 ---
