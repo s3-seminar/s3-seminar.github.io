@@ -2,7 +2,7 @@
 title: "Filling the gaps: a story of priors and conditional probabilities"
 speaker: Thomas Moreau
 affiliation: Parietal - Inria Saclay
-date: 2024-01-19 11:00
+date: 2026-01-19 11:00
 perso: https://tommoral.github.io
 location: Salle G. Hopper 0336, IBM
 hybrid: https://teams.microsoft.com/meet/32287243237206?p=pgTms3rsDJ5B3hJ3Hu
