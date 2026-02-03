@@ -3,7 +3,7 @@ title: "Apport de la magnétotellurique à l’imagerie et au monitoring des sys
 speaker: Pierre Wawrzyniak, Cécile Gracianne, Benjamin François
 affiliation: Bureau de Recherches Géologiques et Minières (BRGM)
 date: 2026-02-06 11:00
-perso: https://thibaut-germain.github.io/
+perso: 
 location: Salle G. Hopper 0336, IBM
 speakerdeck: 
 aside: true
