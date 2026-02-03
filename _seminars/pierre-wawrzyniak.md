@@ -5,7 +5,6 @@ affiliation: Bureau de Recherches Géologiques et Minières (BRGM)
 date: 2026-02-06 11:00
 perso: https://thibaut-germain.github.io/
 location: Salle G. Hopper 0336, IBM
-hybrid: https://teams.microsoft.com/meet/34597841354366?p=gdpTZHmimmhIzAkPh1
 speakerdeck: 
 aside: true
 ---
