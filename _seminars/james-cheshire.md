@@ -5,6 +5,7 @@ affiliation: LTCI, Telecom Paris
 date: 2026-03-27 11:00
 perso: https://sites.google.com/view/jamescheshireresearch/home
 location: Salle G. Hopper 0336, IBM
+hybrid: https://teams.microsoft.com/meet/3353104168864?p=utH2t3EZIb9dXOyKJl 
 speakerdeck: 
 aside: true
 ---
