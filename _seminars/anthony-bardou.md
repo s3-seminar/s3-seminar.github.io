@@ -1,7 +1,7 @@
 ---
 title: "Symmetry-Aware Bayesian Optimization via Max Kernels"
 speaker: Anthony Bardou
-affiliation: ENSAE, IP Paris
+affiliation: INDY Lab, EPFL
 date: 2026-11-27 14:00
 perso: https://abardou.github.io/
 location: TBD
