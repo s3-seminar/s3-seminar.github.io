@@ -4,7 +4,7 @@ speaker: Anthony Bardou
 affiliation: INDY Lab, EPFL
 date: 2026-11-27 14:00
 perso: https://abardou.github.io/
-location: TBD
+location: Amphi E1.01, Breguet
 hybrid: https://teams.microsoft.com/meet/3918398331533368?p=lLA9iJiBqs2K3e0CYp
 speakerdeck: 
 aside: true
