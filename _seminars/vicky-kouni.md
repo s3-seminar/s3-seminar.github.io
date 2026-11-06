@@ -4,7 +4,7 @@ speaker: Vicky Kouni
 affiliation: LAMSADE, Paris Dauphine - PSL
 date: 2026-11-13 14:00
 perso: https://sites.google.com/view/vasiliki-kouni
-location: TBD
+location: Amphi II, Eiffel
 hybrid: https://teams.microsoft.com/meet/3394311553605238?p=s72NhSGLIZTcFRFEQe
 speakerdeck: 
 aside: true
