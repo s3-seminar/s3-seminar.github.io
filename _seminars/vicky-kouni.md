@@ -2,9 +2,9 @@
 title: "The shades of adversarial robustness: from unfolding networks to frame-based attacks"
 speaker: Vicky Kouni
 affiliation: LAMSADE, Paris Dauphine - PSL
-date: 2026-11-13 14:00
+date: 2026-11-13 11:00
 perso: https://sites.google.com/view/vasiliki-kouni
-location: Amphi II, Eiffel
+location: L2S, Breguet
 hybrid: https://teams.microsoft.com/meet/3394311553605238?p=s72NhSGLIZTcFRFEQe
 speakerdeck: 
 aside: true
